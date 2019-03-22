@@ -609,7 +609,8 @@ body {
 	justify-content: space-between;
 	margin: 0;
 	padding: 0;
-	list-style: none;	
+	list-style: none;
+
 }
 
 .promo-item {
@@ -648,6 +649,10 @@ body {
 	background-repeat: no-repeat;
 	background-color: #a90f2d;
 }
+.promo-item-left,
+.promo-item-right {
+	padding-bottom:23px;
+}
 
 .promo-item-right {
 	background-image: url(../img/background/chocolate-fon.jpg);
@@ -655,6 +660,7 @@ body {
 	background-repeat: no-repeat;
 	background-color: #a90f2d;
 }
+
 
 .promo-hedline {
 	font-size: 35px;
@@ -691,7 +697,6 @@ body {
 	flex-direction: row-reverse;
 	margin-top: 45px;
 	margin-right: 19px;
-	margin-bottom: 23px;
 }
 
 .promo-hit {
