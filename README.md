@@ -8,4 +8,11 @@
        с фиксированной шириной 1200px с центровкой основного контента, с некоторыми блоками, которые тянутся на всю ширину окна браузера; 
     
 # Внешний вид
-![Альтернативный текст](/preview/gllacy-index-1200.jpg)
+<p>
+ <img src="/preview/gllacy-catalog-1200.jpg" alt="drawing" width="410"/>
+ <img src="/preview/gllacy-index-1200.jpg" alt="drawing" width="410"/> 
+</p>
+
+# Как посмотреть проект локально
+*  Сделайте Git Clone. 
+*  В браузере откройте файл index.html. 
